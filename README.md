@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#, machine learning, and deep learning.
 - 💞️ I’m looking to collaborate on AI/ML projects, software development, and biotech innovations.
 - 📫 How to reach me ...
+  Gabrielstoimenov00@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a biotech engineer with a passion for coding and solving complex problems!
 
